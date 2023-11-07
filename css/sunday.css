@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Sunday';
+    src: local('Sunday'), local('Sunday-Regular'),
+        url('hinted-Sunday-Regular.woff2') format('woff2'),
+        url('hinted-Sunday-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
